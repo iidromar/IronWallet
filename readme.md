@@ -60,9 +60,7 @@ Your task is to design, implement, and explain a high-level system architecture 
 ### Assumptions During POC Implementations
 
 - Assume that users are already authenticated and authorized to use the investment-wallet services.
-- Since your system will need a payment gateway/ omnibus provider, it is optional to read about the below APIs for better understanding and mocking
-    - [ANB statement API](https://developer.anb.com.sa/apis/api/account-statement/doc#operation/statement)
-    - [Moyasar for payment gateway](https://docs.moyasar.com/)
+
 
 ## Running the POC Template
 
