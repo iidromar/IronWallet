@@ -1,0 +1,1 @@
+from resources.statements.statement_model import Statement
